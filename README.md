@@ -10,7 +10,7 @@ The first dataviz is about the kills by character in the serie, you can intectua
 
 ![159](https://user-images.githubusercontent.com/63415652/120874309-af690500-c56b-11eb-8cd8-ac40a115210f.PNG)
 
-The first dataviz is about a general overview in the serie like top five used weapons, number of kills, etc., you can intectuate with this here in tableau public website:
+The second dataviz is about a general overview in the serie like top five used weapons, number of kills, etc., you can intectuate with this here in tableau public website:
 
 * [General overview](https://public.tableau.com/app/profile/miguel.angel6509/viz/GeneralOverviewGamesofThrones/GeneralOverview)
 
